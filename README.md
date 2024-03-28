@@ -1,2 +1,2 @@
-# Estudos-Python
+# Estudos | Python
 Meus estudos sobre a linguagem Python.
